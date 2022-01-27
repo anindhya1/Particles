@@ -11,7 +11,7 @@ To run this project you will need a pulse sensor, an arduino uno, processing sof
 
 First, connect the pulse sensor to the arduino and the arduino to the computer. Then upload the 'circuitstoday' code on the arduino and run it. 
 
-Next, run the 'Particles' code on processing. (Make sure the 'Processing' and 'Perlin' code are in the same folder). 
+Next, run the 'Particles' code on processing. (Make sure the 'Processing' and 'Perlin' codes are in the same folder). 
 
 **Softwares**:-
 1. [Processing](https://processing.org/)

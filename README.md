@@ -1,8 +1,8 @@
 # Particles
-## Creating Generative Art through Processing using Heart-Rate sensor 
-### (Brain Computer Interface version coming soon)
+## Creating abstract art using Heart-Rate sensor 
 
-This project is an extension of a research paper I had worked on and published in the International Journal of Innovative Technology and Exploring Engineering (IJITEE) in March 2020.
+
+This project is an extension of a research paper I had published in the International Journal of Innovative Technology and Exploring Engineering (IJITEE) in March 2020.
 
 Paper link: <https://www.ijitee.org/wp-content/uploads/papers/v9i5/E2590039520.pdf>
 
